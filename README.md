@@ -8,8 +8,8 @@ Customizable ADSR Controller
 Features
 ========
 
-* Cusomizable appearance
-* Cusomizable value range
+* Customizable appearance
+* Customizable value range
 
 Basic Usage
 ========
